@@ -1,0 +1,20 @@
+{
+  "name": "fintech_app",
+  "version": "1.0.0",
+  "description": "This is a demo project for calculating average transactions by category.\r It is written in node js.",
+  "main": "app.js",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@172.29.104.35:petar.jovancic/fintech_app.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
