@@ -6,5 +6,5 @@ It is written in node js.
 
 ### Usage
 - Download files from the rapository
-- install packages by executing 'npm init' and then later 'npm install'
+- install packages by executing 'npm install'
 - execute command 'node app' in the terminal
